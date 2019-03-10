@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Crezma ,! [-]`,"http://twitch.tv/Death Shop")
+client.user.setGame(`Derbo ,!`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
@@ -368,9 +368,7 @@ client.on('message', message => {
 ╔[❖════════════❖]╗
                     اوامر ادارية
 ╚[❖════════════❖]╝
-╔[❖════════════❖]╗
-                    مبرمج البوت [ @!~ Raider 🥂#8636 ]
-╚[❖════════════❖]╝
+
  ❖  -kick <mention > ➾ لطرد عضو
  ❖  -ban <mention > ➾لطرد عضو للابد
  ❖ -mute < mention > ➾ اسكات عضو 
